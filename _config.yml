@@ -71,8 +71,8 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://ohyash.github.io/Knowledge-Day'
-  relativeLinks: 'http://ohyash.github.io/Knowledge-Day/links.jsonp'
+  siteurl: 'https://ohyash.github.io/Knowledge-Day'
+  relativeLinks: 'https://ohyash.github.io/Knowledge-Day/links.jsonp'
   media: 'images'
   metadata:
     _posts:
