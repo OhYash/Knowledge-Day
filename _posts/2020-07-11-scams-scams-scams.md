@@ -2,11 +2,15 @@
 layout: post
 published: true
 categories:
-  - personal
+  - interesting
 mathjax: false
 featured: false
 comments: false
 title: Scams Scams Scams
+description: Some of the unique and interesting scams that could be worth discussing.
+headline: Scams
+modified: '2020-07-09'
+tags: scams
 ---
 All scams and frauds have a single motive: To stash in cash. Do you know about the biggest accounting scandal of all time?   
 
