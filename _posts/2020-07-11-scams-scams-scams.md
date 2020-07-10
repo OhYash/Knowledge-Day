@@ -11,6 +11,7 @@ title: Scams Scams Scams
 All scams and frauds have a single motive: To stash in cash. Do you know about the biggest accounting scandal of all time?   
 
 ![Scams](https://miro.medium.com/max/590/1*XcKt_YQSUG7luvtR7wHUXA.jpeg)  
+
 -----
 
 ## WorldCom
