@@ -11,11 +11,12 @@ title: Scams Scams Scams
 All scams and frauds have a single motive: To stash in cash. Do you know about the biggest accounting scandal of all time?   
 
 ![Scams](https://miro.medium.com/max/590/1*XcKt_YQSUG7luvtR7wHUXA.jpeg)  
-
+-----
 
 ## WorldCom
 
 Not just the biggest accounting scandal, it’s also the biggest bankruptcies of all time — in the US. Talk about going bankrupt with $4billions in hand? Bernie Ebbers (CEO) is a mastermind with this one.  
+  
 ![worldcom](https://miro.medium.com/max/700/1*ShlnssYydl-E9-syfJkX8Q.jpeg)  
 WorldCom was one of the largest telecom companies back in the late 1990s.  
   
